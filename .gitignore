@@ -1,0 +1,8 @@
+# This public repository holds only the pages the App Store links to:
+# the privacy policy (https://github.com/ChrisMahlke/vector/blob/main/PRIVACY.md,
+# also opened from the app's Settings) and the README. The support URL is the
+# Issues page. Source code, tests, docs and screenshots stay local.
+*
+!/.gitignore
+!/README.md
+!/PRIVACY.md
